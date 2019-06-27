@@ -16,4 +16,4 @@
 
 **Running time**: 382 ms
 
-**Total time**: 869 s
+**Total time**: 869 ms
